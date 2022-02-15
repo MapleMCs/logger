@@ -1,5 +1,5 @@
 {
-  "name": "@mapleth/logger",
+  "name": "mapleth-logger",
   "version": "0.0.11",
   "description": "date with time color logger for Node.js.",
   "main": "index.js",
