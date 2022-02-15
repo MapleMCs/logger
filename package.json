@@ -1,0 +1,31 @@
+{
+  "name": "@mapleth/logger",
+  "version": "0.0.11",
+  "description": "date with time color logger for Node.js.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MapleMCs/logger.git"
+  },
+  "keywords": [
+    "maple",
+    "logger",
+    "th",
+    "log"
+  ],
+  "author": "Jirayu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MapleMCs/logger/issues"
+  },
+  "homepage": "https://github.com/MapleMCs/logger#readme",
+  "dependencies": {
+    "chalk": "4.1.2"
+  }
+}
